@@ -12,20 +12,20 @@ function Contact() {
           <p className="text-lg text-gray-300">
             <strong>Email:</strong> 
             <a href="mailto:subrat.sahoo@example.com" className="text-teal-400 hover:underline">
-              subrat.sahoo@example.com
+              subratsahoo3883@gmail.com
             </a>
           </p>
           <p className="text-lg text-gray-300 mt-4">
             <strong>Phone:</strong> 
             <a href="tel:+1234567890" className="text-teal-400 hover:underline">
-              +1 (234) 567-890
+              +91 6372523229
             </a>
           </p>
         </div>
 
         {/* Email CTA */}
         <a
-          href="mailto:subrat.sahoo@example.com"
+          href="mailto:subratsahoo3883@gmail.com"
           className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-8 py-4 rounded-full font-semibold transition-transform transform hover:scale-105 mb-8 inline-block"
         >
           Send an Email

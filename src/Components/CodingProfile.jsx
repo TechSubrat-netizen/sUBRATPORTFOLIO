@@ -10,7 +10,7 @@ function CodingProfiles() {
           {/* Coding Platform Links */}
           <div className="flex justify-center mb-12 space-x-8">
             <a
-              href="https://www.hackerrank.com/yourusername"
+              href="https://www.hackerrank.com/profile/subratsahoo3883"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-8 py-4 rounded-full font-semibold transition-transform transform hover:scale-105"
@@ -18,7 +18,7 @@ function CodingProfiles() {
               HackerRank
             </a>
             <a
-              href="https://leetcode.com/yourusername"
+              href="https://leetcode.com/u/Subratsahoo6372/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-8 py-4 rounded-full font-semibold transition-transform transform hover:scale-105"
@@ -26,7 +26,7 @@ function CodingProfiles() {
               LeetCode
             </a>
             <a
-              href="https://www.geeksforgeeks.org/user/yourusername"
+              href="https://www.geeksforgeeks.org/user/user_06p6v828wdq/e"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-8 py-4 rounded-full font-semibold transition-transform transform hover:scale-105"

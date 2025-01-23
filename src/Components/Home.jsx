@@ -15,15 +15,15 @@ function Home() {
           A Passionate <span className="text-teal-400">MERN Stack Developer</span> crafting modern web applications with intuitive user experiences.
         </p>
         <div className="flex space-x-6 mt-6">
-          <a
+          {/* <a
             href="#projects"
             className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-6 py-3 rounded-full font-semibold transition-transform transform hover:scale-105"
           >
             View My Work
-          </a>
+          </a> */}
           <a
             href="#contact"
-            className="border border-teal-400 px-6 py-3 rounded-full font-semibold hover:bg-teal-400 hover:text-gray-900 transition-transform transform hover:scale-105"
+            className= "bg-teal-400 hover:bg-teal-500border border-teal-400 px-6 py-3 rounded-full font-semibold hover:bg-teal-400 hover:text-gray-900 transition-transform transform hover:scale-105  text-gray-900"
           >
             Contact Me
           </a>
@@ -35,13 +35,13 @@ function Home() {
           </a>
         </div>
         <div className="flex space-x-4 mt-8">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/TechSubrat-netizen" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faGithub} size="2x" className="hover:text-teal-400 transition" />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="http://www.linkedin.com/in/subrat-sahoo-b72337261" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} size="2x" className="hover:text-teal-400 transition" />
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/kh173952700?t=rbjzEGHsWmFlXnBQf59HwQ&s=08" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTwitter} size="2x" className="hover:text-teal-400 transition" />
           </a>
         </div>
@@ -59,7 +59,7 @@ function Home() {
       <section id="skills" className="py-20 px-6">
         <h2 className="text-3xl font-bold text-center mb-8">My Skills</h2>
         <div className="flex flex-wrap justify-center gap-8">
-          {["React.js", "Node.js", "Express", "MongoDB", "JavaScript", "HTML5", "CSS3", "Git"].map((skill, idx) => (
+          {["React.js", "Node.js", "Express", "MongoDB", "JavaScript", "HTML5", "CSS3", "Git","DSA","Bootstrap","Tailwind","Python","Netify","Git"  ,"Github","Oracle Sql"].map((skill, idx) => (
             <div
               key={idx}
               className="bg-gray-800 px-6 py-4 rounded-lg shadow-lg transform transition-transform hover:scale-105"
@@ -71,7 +71,7 @@ function Home() {
       </section>
 
       {/* Projects Section */}
-      <section id="projects" className="py-20 bg-gray-800 px-6">
+      {/* <section id="projects" className="py-20 bg-gray-800 px-6">
         <h2 className="text-3xl font-bold text-center mb-8">Projects</h2>
         <div className="grid md:grid-cols-3 gap-8">
           {[1, 2, 3].map((project) => (
@@ -92,7 +92,7 @@ function Home() {
             </div>
           ))}
         </div>
-      </section>
+      </section> */}
 
       {/* Contact Section */}
       <section id="contact" className="py-20 px-6 bg-gray-900 text-center">
@@ -101,7 +101,7 @@ function Home() {
           Have a project in mind? I'd love to collaborate and bring your ideas to life.
         </p>
         <a
-          href="mailto:subrat.sahoo@example.com"
+          href="mailto:subratsahoo3883@example.com"
           className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-8 py-4 rounded-full font-semibold transition-transform transform hover:scale-105"
         >
           Get in Touch

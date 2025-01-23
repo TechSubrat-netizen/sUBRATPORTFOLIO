@@ -69,7 +69,7 @@ function Header() {
         {/* Social Media Links */}
         <div className="flex space-x-4">
           <a
-            href="https://linkedin.com"
+            href="http://www.linkedin.com/in/subrat-sahoo-b72337261"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-teal-400 transition duration-300"
@@ -77,7 +77,7 @@ function Header() {
             <FontAwesomeIcon icon={faLinkedin} size="lg" />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/kh173952700?t=rbjzEGHsWmFlXnBQf59HwQ&s=08"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-teal-400 transition duration-300"
@@ -85,7 +85,7 @@ function Header() {
             <FontAwesomeIcon icon={faTwitter} size="lg" />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/TechSubrat-netizen"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-teal-400 transition duration-300"
@@ -93,10 +93,10 @@ function Header() {
             <FontAwesomeIcon icon={faGithub} size="lg" />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/subrat_akash?igsh=aTl0cXNnbjRwaDY1&utm_source=ig_contact_invite"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-teal-400 transition duration-300"
+            className="hover:text-teal-400 transition duration-300" 
           >
             <FontAwesomeIcon icon={faInstagram} size="lg" />
           </a>

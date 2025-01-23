@@ -10,6 +10,7 @@ function Skills() {
     { name: "HTML5", icon: "🔶", color: "text-orange-500" },
     { name: "CSS3", icon: "🎨", color: "text-blue-500" },
     { name: "Git & GitHub", icon: "🐙", color: "text-gray-500" },
+          { name: "SQL", icon: "💛", color: "text-gray-500" },
   ];
 
   return (
