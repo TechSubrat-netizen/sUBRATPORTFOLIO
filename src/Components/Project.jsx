@@ -14,7 +14,7 @@ function Project() {
       description:
         "A personal portfolio website showcasing my skills, projects, and experience. Built with React.js and Tailwind CSS for a modern and responsive design.",
       technologies: ["React.js", "Tailwind CSS"],
-      link: "#",
+      link: "https://subratportfolio007.netlify.app/",
     },
     {
       title: "Crypto App",
