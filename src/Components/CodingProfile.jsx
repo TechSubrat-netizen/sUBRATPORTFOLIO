@@ -44,12 +44,14 @@ function CodingProfiles() {
           </h3>
           <div className="h-48 md:h-64 overflow-y-auto">
             <ul className="space-y-3 md:space-y-4 text-sm sm:text-base md:text-lg text-gray-300">
+            <li>✔ Authentic Hire Technology Solution :Internship </li>
+            <li>✔ Jspider Training  And Development Center(ongoing) : MERN STACK</li>
               <li>✔ HackerRank: JavaScript (Basic)</li>
-              <li>✔ HackerRank: Problem Solving (Intermediate)</li>
               <li>✔ HackerRank: SQL (Basic)</li>
-              <li>✔ HackerRank: Python (Advanced)</li>
-              <li>✔ LeetCode: Data Structures and Algorithms</li>
-              <li>✔ GeeksforGeeks: Full Stack Development</li>
+              <li>✔ HackerRank: SQL (Intermediate)</li>
+              <li>✔ Chai Aur Code: Data Structure and Algorithm</li>
+          
+           
               {/* Add more certifications as needed */}
             </ul>
           </div>
