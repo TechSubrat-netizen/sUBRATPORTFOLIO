@@ -1,7 +1,7 @@
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin, faTwitter } from "@fortawesome/free-brands-svg-icons";
-import pdf from '../assets/SUBRAT_SAHOO.pdf'
+import pdf from '../assets/SUBRAT_SAHOO_RESUME.pdf'
 
 function Home() {
   return (
