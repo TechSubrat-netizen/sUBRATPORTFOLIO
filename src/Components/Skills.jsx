@@ -1,6 +1,6 @@
 import React from "react";
 import { 
-  FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaJsSquare, FaGitAlt, FaGithub, FaBootstrap 
+  FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaJsSquare, FaGitAlt, FaGithub, FaBootstrap ,FaMobileAlt 
 } from "react-icons/fa";
 import { 
   SiMongodb, SiExpress, SiMysql, SiTailwindcss, SiPostman, SiNetlify, SiVercel, SiJsonwebtokens 
@@ -16,6 +16,7 @@ function Skills() {
         { name: "JavaScript", icon: <FaJsSquare />, color: "text-yellow-400" },
         { name: "ES6+", icon: <FaJsSquare />, color: "text-yellow-500" },
         { name: "React.js", icon: <FaReact />, color: "text-blue-400" },
+      { name: "React Native", icon: <FaMobileAlt />, color: "text-teal-400" },
         { name: "Bootstrap", icon: <FaBootstrap />, color: "text-purple-500" },
         { name: "Tailwind CSS", icon: <SiTailwindcss />, color: "text-blue-400" },
       ],
