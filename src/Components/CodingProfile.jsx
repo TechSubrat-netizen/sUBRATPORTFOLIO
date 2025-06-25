@@ -28,7 +28,7 @@ function CodingProfiles() {
             LeetCode
           </a>
           <a
-            href="https://www.geeksforgeeks.org/user/user_06p6v828wdq/e"
+            href="https://www.geeksforgeeks.org/user/user_06p6v828wdq/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-teal-400 hover:bg-teal-500 text-gray-900 px-6 py-3 md:px-8 md:py-4 rounded-full font-semibold transition-transform transform hover:scale-105 w-full sm:w-auto"
