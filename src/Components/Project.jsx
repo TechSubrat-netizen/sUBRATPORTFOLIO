@@ -2,19 +2,25 @@
 
 function Project() {
   const projectList = [
-    {
-      title: "E-Commerce Platform  (Ongoing)",
-      description:
-        "A fully functional e-commerce platform with product listings, user authentication, cart management, and secure payment integration using the Stripe API. Developed using the MERN stack." ,
-      technologies: ["React.js", "Node.js", "MongoDB", "Express.j"],
-      link: "#",
-    },
+
     {
       title: "Portfolio Website",
       description:
         "A personal portfolio website showcasing my skills, projects, and experience. Built with React.js and Tailwind CSS for a modern and responsive design.",
       technologies: ["React.js", "Tailwind CSS"],
       link: "https://subratportfolio007.netlify.app/",
+    },
+     {
+      title:"",
+      description:"A robust authentication system built with Node.js, Express, and MongoDB that provides secure user authentication with OTP verification.",
+      technologies:["Nodejs,ExpressJS,JWT,Nodemailer,bCrypt"],
+    link:"https://github.com/TechSubrat-netizen/SecureVaultAuthSystem/tree/main"
+    },
+    {
+      title:"Secure Vault AUTH SYSTEM (Backend Project)",
+      description:"A robust authentication system built with Node.js, Express, and MongoDB that provides secure user authentication with OTP verification.",
+      technologies:["Nodejs,ExpressJS,JWT,Nodemailer,bCrypt"],
+    link:"https://github.com/TechSubrat-netizen/SecureVaultAuthSystem/tree/main"
     },
     {
       title: "Crypto App",
@@ -86,6 +92,8 @@ function Project() {
       technologies: ["React.js", "JavaScript"],
       link: "https://dg-cloc0k.netlify.app/",
     },
+    
+
   ];
   
 
