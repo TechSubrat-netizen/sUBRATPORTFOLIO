@@ -11,9 +11,11 @@ function App() {
 
   return (
     <>
-    <BrowserRouter> 
+    <BrowserRouter>
+       {/* <Header/> */} 
     <Header/>
     <Routes>
+    {/* nav links */}
        <Route path="/" element={<Home/>}/>
       <Route path="/about" element={<About/>}/>
       <Route path="/project" element={<Project/>}/>
@@ -23,7 +25,7 @@ function App() {
 
     </Routes> 
      </BrowserRouter>
-     {/* <Header/> */}
+
       
     </>
   )

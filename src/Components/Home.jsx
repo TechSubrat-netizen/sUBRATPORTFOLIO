@@ -12,9 +12,13 @@ function Home() {
   Hi, I&apos;m <span className="text-teal-400">Subrat Sahoo</span>
 </h1>
 <p className="text-lg md:text-2xl mt-4 max-w-2xl">
-  A Passionate <span className="text-teal-400">React Native Developer</span> crafting cross-platform mobile applications with intuitive user experiences.
+  A Passionate{" "}
+  <span className="text-teal-400">
+    L1 Level Network Engineer managing network connectivity, troubleshooting issues,
+    monitoring systems, and ensuring smooth IT infrastructure operations
+  </span>{" "}
+  crafting cross-platform mobile applications with intuitive user experiences.
 </p>
-
         <div className="flex space-x-6 mt-6">
           {/* <a
             href="#projects"

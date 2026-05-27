@@ -24,6 +24,7 @@ function Skills() {
     {
       title: "Backend",
       skills: [
+        {name:"Python",icon:<FaPython/>, color:"text-red-500"}
         { name: "Node.js", icon: <FaNodeJs />, color: "text-green-400" },
         { name: "Express.js", icon: <SiExpress />, color: "text-gray-400" },
         { name: "RESTful API", icon: <SiJsonwebtokens />, color: "text-green-500" },

@@ -10,12 +10,6 @@ function Project() {
       technologies: ["React.js", "Tailwind CSS"],
       link: "https://subratportfolio007.netlify.app/",
     },
-     {
-      title:"",
-      description:"A robust authentication system built with Node.js, Express, and MongoDB that provides secure user authentication with OTP verification.",
-      technologies:["Nodejs,ExpressJS,JWT,Nodemailer,bCrypt"],
-    link:"https://github.com/TechSubrat-netizen/SecureVaultAuthSystem/tree/main"
-    },
     {
       title:"Secure Vault AUTH SYSTEM (Backend Project)",
       description:"A robust authentication system built with Node.js, Express, and MongoDB that provides secure user authentication with OTP verification.",
