@@ -33,7 +33,7 @@ function Home() {
             Contact Me
           </a>
          
-          <a href={pdf} target="_blank" type="media" rel="alternate" media="print"  className="border border-teal-400 px-6 py-3 rounded-full font-semibold hover:bg-teal-400 hover:text-gray-900 transition-transform transform hover:scale-105" download="SUBRAT.pdf">View my Resume</a>
+          {/* <a href={pdf} target="_blank" type="media" rel="alternate" media="print"  className="border border-teal-400 px-6 py-3 rounded-full font-semibold hover:bg-teal-400 hover:text-gray-900 transition-transform transform hover:scale-105" download="SUBRAT.pdf">View my Resume</a> */}
         </div>
         <div className="flex space-x-4 mt-8">
           <a href="https://github.com/TechSubrat-netizen" target="_blank" rel="noopener noreferrer">
